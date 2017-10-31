@@ -1,4 +1,4 @@
-// This program determines what type of credit card the user has based on the credit card number
+// This program uses Luhn's Algorithm to determine what type of credit card the user has based on the credit card number
 // Works with American Express, Mastercard, and Visa
 
 #include <stdio.h>
